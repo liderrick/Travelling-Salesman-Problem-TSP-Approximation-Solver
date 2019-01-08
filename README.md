@@ -8,7 +8,7 @@ The program's implementation of the [Christofides algorithm](https://en.wikipedi
 
 * The output file contains the generated solution using the [Christofides algorithm](https://en.wikipedia.org/wiki/Christofides_algorithm) and [2-opt](https://en.wikipedia.org/wiki/2-opt): the total path length is in its first line, followed by an ordered list of the cities' identifiers.
 
-The `test-input-#.txt` files were provided by Oregon State University, CS 325 - Summer 2017.
+Some example input files are provided. These `test-input-#.txt` files were sourced from Oregon State University, CS 325 - Summer 2017.
 
 ## Instructions
 1. Run `make` to compile solver.
